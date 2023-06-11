@@ -1,6 +1,6 @@
 {
-    "name": "runner",
-    "short_name": "runner",
+    "name": "schoolwale",
+    "short_name": "schoolwale",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
